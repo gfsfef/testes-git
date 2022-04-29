@@ -168,3 +168,16 @@ p.mix{
     direction: rtl;
     unicode-bidi: bidi-override;
 }
+
+#texto3{
+    vertical-align: text-top;
+}
+#texto4{
+    vertical-align: text-bottom;
+}
+#texto5{
+    vertical-align: sub;
+}
+#texto6{
+    vertical-align: super;
+}   
