@@ -130,3 +130,41 @@ p.mix{
     background-image: url(assets/teste.jpg);
     background-repeat: no-repeat;
 }
+
+#max{
+    max-width: 150000px;
+    background-color: aliceblue;
+}
+
+.caixa{
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+
+#outline{
+    border: 1px black solid;
+    outline-style: solid;
+    outline-color: red;
+    outline-width: thin;
+}
+
+#outline2{
+    margin: 30px;
+    border: 1px black solid;
+    outline-style: solid;
+    outline-color: red;
+    outline-width: thin;
+    outline-offset: 10px;
+    background-color: yellow;
+}
+
+#texto1{
+    text-align: justify ;
+}
+
+#texto2{
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
